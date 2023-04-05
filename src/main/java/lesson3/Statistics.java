@@ -21,7 +21,6 @@ public class Statistics {
     public static List<Integer> getValues (){
         IntSummaryStatistics data = new IntSummaryStatistics();
         List<Integer> arr =generateRandomList();
-        //List<Integer> arr = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
         Iterator<Integer> iter = arr.listIterator();
         while (iter.hasNext()){
             data.accept(iter.next());
