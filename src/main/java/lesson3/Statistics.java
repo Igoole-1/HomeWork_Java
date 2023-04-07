@@ -20,7 +20,7 @@ public class Statistics {
 
     public static List<Integer> getValues (){
         IntSummaryStatistics data = new IntSummaryStatistics();
-        List<Integer> arr =generateRandomList();
+        List<Integer> arr = generateRandomList();
         Iterator<Integer> iter = arr.listIterator();
         while (iter.hasNext()){
             data.accept(iter.next());
