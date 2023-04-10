@@ -1,10 +1,10 @@
-апр. 04, 2023 8:02:06 PM lesson2.BubbleSort bubbleSorting
+апр. 06, 2023 3:50:25 PM lesson2.BubbleSort bubbleSorting
 INFO: [6, 4, 1, 12, 10, 15]
-апр. 04, 2023 8:02:06 PM lesson2.BubbleSort bubbleSorting
+апр. 06, 2023 3:50:25 PM lesson2.BubbleSort bubbleSorting
 INFO: [4, 1, 6, 10, 12, 15]
-апр. 04, 2023 8:02:06 PM lesson2.BubbleSort bubbleSorting
+апр. 06, 2023 3:50:25 PM lesson2.BubbleSort bubbleSorting
 INFO: [1, 4, 6, 10, 12, 15]
-апр. 04, 2023 8:02:06 PM lesson2.BubbleSort bubbleSorting
+апр. 06, 2023 3:50:25 PM lesson2.BubbleSort bubbleSorting
 INFO: [1, 4, 6, 10, 12, 15]
-апр. 04, 2023 8:02:06 PM lesson2.BubbleSort bubbleSorting
+апр. 06, 2023 3:50:25 PM lesson2.BubbleSort bubbleSorting
 INFO: [1, 4, 6, 10, 12, 15]
