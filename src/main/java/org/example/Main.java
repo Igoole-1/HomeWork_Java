@@ -5,9 +5,13 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.HashSet;
+import java.util.Set;
+import lesson6.Notebook;
+import lesson6.SelectedNotebook;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws Exception {
         //TriangularNumber.getTriangularNumber();
         //ProductNumber.getProductNumber();
         //PrimeNumber.getPrimeNumber();
@@ -26,6 +30,8 @@ public class Main {
         //TelephoneBook.addNumber("Sergeev", 456, PhoneBook);
         //TelephoneBook.addNumber("Vasiliev", 789, PhoneBook);
         //TelephoneBook.printBook(PhoneBook);
-        RepeatedNames.Names();
+        //RepeatedNames.Names();
+        SelectedNotebook.NotebookSelection();
+
     }
 }
