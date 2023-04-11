@@ -1,17 +1,10 @@
 package org.example;
-import lesson1.Calculator;
-import lesson1.PrimeNumber;
-import lesson1.ProductNumber;
-import lesson1.TriangularNumber;
-import lesson2.BubbleSort;
-import lesson2.StringParse;
-import lesson3.EvenNumber;
-import lesson3.Statistics;
-import lesson4.ReverseList;
-import lesson4.QueueList;
-
+import lesson5.TelephoneBook;
+import lesson5.RepeatedNames;
 import java.io.IOException;
-import java.util.List;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Main {
     public static void main(String[] args) throws IOException {
@@ -24,9 +17,15 @@ public class Main {
         //BubbleSort.print(BubbleSort.bubbleSorting(sortArr));
         //EvenNumber.removeEvenNumber(EvenNumber.generateRandomList());
         //Statistics.getValues();
-        ReverseList.getReverseList();
+        //ReverseList.getReverseList();
         //QueueList.enqueue(9);
         //QueueList.dequeue();
         //QueueList.first();
+        //Map<String, ArrayList<Integer>> PhoneBook = new HashMap<>();
+        //TelephoneBook.addNumber("Vasiliev", 123, PhoneBook);
+        //TelephoneBook.addNumber("Sergeev", 456, PhoneBook);
+        //TelephoneBook.addNumber("Vasiliev", 789, PhoneBook);
+        //TelephoneBook.printBook(PhoneBook);
+        RepeatedNames.Names();
     }
 }
